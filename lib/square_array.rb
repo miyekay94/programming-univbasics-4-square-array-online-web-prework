@@ -11,8 +11,8 @@ counter = 0
   square_array(new_numbers)
   # =>[9,36,81,144]
   
-while pets[counter] do
-puts pets[counter]
+while numbers[counter] do
+puts new_numbers[counter]
 counter += 1
 
 end
